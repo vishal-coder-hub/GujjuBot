@@ -17,4 +17,4 @@ async def amireallyalive(alive):
                      f"`My owner`: {DEFAULTUSER}\n"
                      "`Telethon version: 6.9.0\nPython: 3.7.3\nfork by:` @Anonymous860\n"
                      "`Database Status: Databases functioning normally!\n\nAlways with you, my master!\n`"
-                     ")
+                     )
